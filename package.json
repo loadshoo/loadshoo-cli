@@ -1,7 +1,7 @@
 {
-  "name": "dfx-cli",
+  "name": "loadshoo-cli",
   "version": "0.0.1",
-  "description": "dfx-cli",
+  "description": "loadshoo-cli",
   "main": "index.js",
   "bin": {
     "my-cli": "./bin/index.js"
