@@ -1,0 +1,24 @@
+{
+  "name": "dfx-cli",
+  "version": "0.0.1",
+  "description": "dfx-cli",
+  "main": "index.js",
+  "bin": {
+    "my-cli": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "@darkobits/lolcatjs": "^3.1.5",
+    "commander": "^11.0.0",
+    "figlet": "^1.6.0",
+    "inquirer": "^9.2.9",
+    "ora": "^7.0.1",
+    "shelljs": "^0.8.5"
+  }
+}
